@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP6", "APP6\APP6.csproj", "{8A07E9A0-6AD3-49D5-817A-C1B7DA980AE2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IoTApp", "IoTApp\IoTApp.vdproj", "{318ACFB3-1CDF-413F-8D75-9037B22088F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A07E9A0-6AD3-49D5-817A-C1B7DA980AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A07E9A0-6AD3-49D5-817A-C1B7DA980AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A07E9A0-6AD3-49D5-817A-C1B7DA980AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A07E9A0-6AD3-49D5-817A-C1B7DA980AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318ACFB3-1CDF-413F-8D75-9037B22088F9}.Debug|Any CPU.ActiveCfg = Debug
+		{318ACFB3-1CDF-413F-8D75-9037B22088F9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB86FE82-6AC2-4E07-8E96-0CC5FDF4FBEF}
+	EndGlobalSection
+EndGlobal

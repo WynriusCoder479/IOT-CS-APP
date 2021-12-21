@@ -1,0 +1,15 @@
+D:\IOTP\APP6\APP6\bin\Debug\APP6.exe.config
+D:\IOTP\APP6\APP6\bin\Debug\APP6.exe
+D:\IOTP\APP6\APP6\bin\Debug\APP6.pdb
+D:\IOTP\APP6\APP6\bin\Debug\M2Mqtt.Net.dll
+D:\IOTP\APP6\APP6\bin\Debug\MaterialSkin.dll
+D:\IOTP\APP6\APP6\bin\Debug\Newtonsoft.Json.dll
+D:\IOTP\APP6\APP6\bin\Debug\M2Mqtt.Net.pdb
+D:\IOTP\APP6\APP6\bin\Debug\Newtonsoft.Json.xml
+D:\IOTP\APP6\APP6\obj\Debug\APP6.Form1.resources
+D:\IOTP\APP6\APP6\obj\Debug\APP6.Properties.Resources.resources
+D:\IOTP\APP6\APP6\obj\Debug\APP6.csproj.GenerateResource.cache
+D:\IOTP\APP6\APP6\obj\Debug\APP6.csproj.CoreCompileInputs.cache
+D:\IOTP\APP6\APP6\obj\Debug\APP6.csproj.CopyComplete
+D:\IOTP\APP6\APP6\obj\Debug\APP6.exe
+D:\IOTP\APP6\APP6\obj\Debug\APP6.pdb
